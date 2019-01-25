@@ -1,0 +1,174 @@
+body
+{
+	color: #ffffff;
+	font-family: 'Microsoft Sans-serif', sans-serif;
+	font-size: 20px;
+	background-color: b3b3b3;
+}
+
+
+    #container
+    {
+        margin-left: auto;
+        margin-right: auto;
+    }
+   
+
+	
+	
+    #square1
+    {
+        float: left;
+        padding: 20px;
+        width:626px;
+		height: 500px;
+		color: white;
+		background-color: #cccccc;
+  }
+  
+  #square2
+    {
+        float: left;
+        padding: 20px;
+        width: 627px;
+		height: 500px;
+		color: white;
+		background-color: #999999;
+  }
+  #square3
+    {
+        float: left;
+        padding: 20px;
+        width: 626px;
+		height: 500px;
+		color: white;
+		background-color: #666666;
+  }
+   #square4
+    {
+        float: left;
+        padding: 20px;
+        width: 627px;
+		height: 500px;
+		color: white;
+		background-color: #333333;
+  }
+    #footer
+    {
+        clear: both;
+        background-color: white;
+        color: #1a1a1a;
+		font-weight: bold;
+        text-align: center;
+        padding: 20px;
+    }   
+
+#logo
+    {
+        background-color: #4d4d4d;
+        color: white;
+        text-align: left;
+        padding: 10px;
+		float: center;
+		font-size: 15px;
+		height: 35px;
+    }
+	#menu1
+	{
+		width: 256px;
+		padding: 8px;
+		float: right;
+	}
+	#menu2
+	{
+		width: 256px;
+		padding: 8px;
+		float: right;
+	}
+	#menu3
+	{
+		width: 256px;
+		padding: 8px;
+		float: right;
+	}
+	#menu4
+	{
+		width: 256px;
+		padding: 8px;
+		float: right;
+	}
+
+
+
+.tw
+{
+	margin: 10px;
+	width: 52,5px;
+	height: 71px;
+	background-color: #3095d3;
+	float: left;
+}
+
+.tw:hover
+{
+	background-color: #2084c2;
+}
+
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height: 142px;
+}
+
+a.tilelinkhtml5
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.sociallink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 105px;
+	height: 142px;
+}
+ 
+h1
+{
+    font-size: 48px;
+    color: red !important;
+}
+ 
+/* Nieodwiedzony link */
+a:link
+{
+    color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+ 
+/* Odwiedzony link */
+a:visited
+{
+    color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+ 
+/* Link po najechaniu kursorem */
+a:hover
+{
+    color: #b3b3b3;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+}
+
