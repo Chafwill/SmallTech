@@ -27,7 +27,7 @@ body
 	box-sizing: border-box;
 	height: 64px;
 	width: 100%;
-	background: #fff;
+	background: white;
 	-webkit-box-shadow: 0px -10px 50px 5px rgba(0,0,0,0.15); 
 	box-shadow: 0px -10px 50px 5px rgba(0,0,0,0.15);
 }
@@ -49,13 +49,14 @@ body
 	position: fixed;
 	height: 100%;
 	width: 300px;
-	top: 50px;
+	top: 0px;
 	right: -300px;
 	padding: 0;
 	background: #666666;
 	transition: 0.3s transform ease-in-out;
 	z-index: -1;
-	overflow: auto;
+	overflow: hidden;
+	padding-top: 50px;
 }
 
 .side-menu ul 
